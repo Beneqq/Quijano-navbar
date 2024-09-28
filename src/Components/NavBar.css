@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000b30;
+    padding: 10px;
+}
+
+.Logo {
+    color: white;
+    width: 70px;
+    height: 60px;
+}
+
