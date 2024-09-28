@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quijano-navbar/static/css/main.473dda9a.css",
+    "main.js": "/Quijano-navbar/static/js/main.8556d5a4.js",
+    "index.html": "/Quijano-navbar/index.html",
+    "main.473dda9a.css.map": "/Quijano-navbar/static/css/main.473dda9a.css.map",
+    "main.8556d5a4.js.map": "/Quijano-navbar/static/js/main.8556d5a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.473dda9a.css",
+    "static/js/main.8556d5a4.js"
+  ]
+}
